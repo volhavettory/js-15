@@ -1,0 +1,16 @@
+body {
+    transition: 1s;
+    background-color: orange;
+}
+
+button {
+    padding: 8px;
+    background-color: rgb(10, 10, 7);
+    color: brown;
+    border: none;
+    font-size: 2rem;
+}
+
+button:hover {
+    background: rgb(17, 17, 17);
+}
